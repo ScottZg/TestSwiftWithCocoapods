@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name         = "TestSwiftWithCocoapods"
+  s.name         = "SwiftWithCocoapods"
   s.version      = "0.0.5"
   s.summary      = "A short description of SwiftWithCocoapods."
   s.homepage     = "https://github.com/ScottZg/TestSwiftWithCocoapods.git"
